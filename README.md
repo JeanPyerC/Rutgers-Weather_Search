@@ -10,7 +10,8 @@
 ![](https://github.com/JeanPyerC/Rutgers-Weather_Search/blob/main/Weather_Challenge/Vacation_Search/Vacation_Search.png)
 
 **2. Deliverable 2: Create a customer travel destinations map**
-  - I was able to write the python command to list out the 4 places we wish to travel to. 
+  - I was able to write the python command to list out the 4 places we wish to travel to.
+![](https://github.com/JeanPyerC/Rutgers-Weather_Search/blob/main/Weather_Challenge/Vacation_Itinerary/Vacation_Travel_Map.png)
  
  **3. Deliverable 3: Create a travel itinerary map**
   - I was able to write the python command for the suggestion travel, however, I was not alowed to use Google's directions service.
