@@ -15,3 +15,4 @@
  
  **3. Deliverable 3: Create a travel itinerary map**
   - I was able to write the python command for the suggestion travel, however, I was not alowed to use Google's directions service.
+![](https://github.com/JeanPyerC/Rutgers-Weather_Search/blob/main/Weather_Challenge/Vacation_Itinerary/ErrorMessage.png)
