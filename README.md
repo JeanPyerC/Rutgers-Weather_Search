@@ -4,7 +4,7 @@
 
 **1. Deliverable 1: Retrieve Weather Data**
   - By using the city csv file provided by another user on grithub, and using weather map application, I was able to retreive weather data information by the city. 
-
+![](https://github.com/JeanPyerC/Rutgers-Weather_Search/blob/main/Weather_Challenge/Weather_Database/WeatherPy_database.png)
 
 **2. Deliverable 2: Create a customer travel destinations map**
   - I was able to write the python command to list out the 4 places we wish to travel to. 
